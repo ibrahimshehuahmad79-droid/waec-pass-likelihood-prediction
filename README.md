@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
+
+![3MTT](https://img.shields.io/badge/3MTT-Data%20Science-green)
+
 # WAEC Pass Likelihood Prediction Using Machine Learning
 
 ## Overview
