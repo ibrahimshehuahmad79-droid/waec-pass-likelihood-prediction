@@ -1,11 +1,3 @@
-# WAEC Pass Likelihood Prediction Using Machine Learning
-
-### 3MTT Data Science Capstone Project
-
-**Author:** Ibrahim Shehu Ahmad
-
-**Fellow ID:** FE/25/7761417422
-
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
